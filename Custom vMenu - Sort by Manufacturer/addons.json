@@ -1,0 +1,207 @@
+{
+
+	"brands": [
+		"Audi",
+		"BMW",
+		"Chevrolet",
+		"Dodge",
+		"Ford",
+		"Honda",
+		"Lada",
+		"Lamborghini",
+		"Land Rover",
+		"Lotus",
+		"Mazda",
+		"McLaren",
+		"Mercedes-Benz",
+		"Mitsubishi",
+		"Nissan",
+		"Pagani",
+		"Porsche",
+		"RUF",
+		"Subaru",
+		"Tesla",
+		"Toyota",
+		"Volkswagen",
+		"Military"
+	],
+
+	"Audi": [
+		"a8audi",
+    	"r820",
+    	"r8lms",
+    	"audir8lms2",
+    	"lms",
+    	"rs5coupe",
+    	"s3sedan"
+	],
+
+  	"BMW": [
+		"bmwg20",
+	  	"m2",
+	  	"m3e30",
+	  	"m3gtr",
+	  	"m4f82",
+	  	"bmwm5f90",
+	  	"m6prior",
+	  	"bmwm8",
+	  	"m8gte",
+	  	"mansm8"
+  	],
+
+  	"Chevrolet": [
+		"chevelle1970",
+		"czr1",
+		"mansc8"
+	],
+
+	"Dodge": [
+		"16challenger",
+    	"16charger",
+    	"chr20",
+    	"acr",
+    	"viper"
+	],
+
+	"Ford": [
+		"focusrs",
+    	"gt401",
+    	"mustang19",
+    	"svt00",
+    	"mgt",
+    	"raptor2017"
+	],
+
+	"Honda": [
+		"na1"
+	],
+
+	"Lada": [
+		"lada2107"
+	],
+
+	"Lamborghini": [
+		"lp700",
+    	"aventador720",
+    	"aventsvjr",
+    	"ldsv",
+    	"hevo",
+    	"lhgt3",
+    	"huracangt3evo"
+	],
+
+	"Land Rover": [
+		"evoque"
+	],
+
+	"Lotus": [
+		"l111s"
+	],
+
+	"Mazda": [
+		"fd"
+	],
+
+	"McLaren": [
+		"720ss",
+		"mcgt20"
+	],
+
+	"Mercedes-Benz": [
+		"amggt63",
+    	"mbc63",
+    	"sl65bs"
+	],
+
+	"Mitsubishi": [
+		"cp9a",
+    	"evo9",
+    	"cz4a"
+	],
+
+	"Nissan": [
+		"bnr32",
+    	"bnr34",
+    	"r35",
+    	"gtr",
+    	"skyline"
+	],
+
+	"Pagani": [
+		"zondar"
+	],
+
+	"Porsche": [
+		"CGT",
+    	"pgt2",
+    	"cayenneturbo",
+    	"pturismo",
+    	"turbo33",
+    	"911gt3r",
+    	"993rwb",
+    	"pts21"
+	],
+
+	"RUF": [
+		"pruf",
+    	"rufyb"
+	],
+
+	"Subaru": [
+		"sim22",
+    	"subwrx"
+	],
+
+	"Tesla": [
+		"tmodel",
+		"models"
+	],
+	
+	"Toyota": [
+		"ae86",
+    	"lc200",
+    	"a80"
+	],
+
+	"Volkswagen": [
+		"golf8gti",
+    	"golfgti"
+	],
+
+	"Military": [
+		"a10c",
+		"ah1z",
+		"ah64d",
+		"asrad",
+		"agds",
+		"f117a",
+		"f14d2",
+		"f15e",
+		"F22A",
+		"hmmwv",
+		"hmvspecial",
+		"leo2a7v",
+		"m1a2c",
+		"mi24",
+		"mi26",
+		"pavehawk",
+		"su34",
+		"unarm",
+		"unarmwl",
+		"uparmorhmvdes",
+		"uparmorwl"
+	],
+  
+	"peds": [
+		"addonpedname1",
+		"addonpedname2"
+	],
+	"weapons": [
+		"addonweaponname1",
+		"addonweaponname2"
+	],
+	"weapon_components": [
+		"weapon_component_name_1",
+		"weapon_component_name_2"
+	]
+}
